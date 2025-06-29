@@ -1,1 +1,2 @@
 - https://www.coursera.org/learn/ml-pipelines-google-cloud-ja
+- https://www.coursera.org/specializations/gcp-data-machine-learning-jp
