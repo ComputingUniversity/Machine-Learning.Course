@@ -1,0 +1,1 @@
+- https://www.coursera.org/learn/ml-pipelines-google-cloud-ja
